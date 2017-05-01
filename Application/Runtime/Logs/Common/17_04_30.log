@@ -1,0 +1,42 @@
+[ 2017-04-30T19:33:36+08:00 ] ::1 /index.php/Public_PATH/Home/View/index.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+ERR: 无法加载模块:Public_PATH
+
+[ 2017-04-30T19:34:00+08:00 ] ::1 /index.php/Public_PATH/Home/View/index.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Public_PATH
+
+[ 2017-04-30T19:34:13+08:00 ] ::1 /index.php/Public//Home/View/index.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-30T19:43:50+08:00 ] ::1 /index.php/Application/Home/View/index.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+ERR: 无法加载模块:Application
+
+[ 2017-04-30T19:44:10+08:00 ] ::1 /index.php/Application/Home/View/index.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+ERR: 无法加载模块:Application
+
+[ 2017-04-30T19:44:19+08:00 ] ::1 /index.php/Application/Home/View.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Application
+
+[ 2017-04-30T19:44:45+08:00 ] ::1 /index.php/Application/Home/View/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+ERR: 无法加载模块:Application
+
