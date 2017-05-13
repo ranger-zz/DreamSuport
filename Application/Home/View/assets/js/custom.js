@@ -90,6 +90,5 @@
         mainApp.slide_show();
         mainApp.reviews_fun();
         mainApp.wizard_fun();
-       
     });
 }(jQuery));
